@@ -20,6 +20,6 @@ public class Object_Test_3 {
             }
         }
 
-        System.out.println("目标数据在数组的索引：" + middle);
+        System.out.println("目标数据在数组的索引是：" + middle);
     }
 }
